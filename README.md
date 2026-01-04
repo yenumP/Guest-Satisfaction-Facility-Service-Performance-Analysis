@@ -5,11 +5,9 @@
 - [Business Problem](#business-problem)
 - [Rationale for the project](#rationale-for-the-project)
 - [Aim of the Project](#aim-of-the-project)
-- [Tech Stack](Tech-stack)
 - [Project Scope and Workflow](#project-scope-and-workflow)
 - [Insight Generation](#insight-generation)
 - [Recommendations](#recommendations)
-- [Dashboard Preview](Dashboard-Preview)
 ## Description
 This project aims to analyse guest satisfaction and facility service performance at PEACEACE, a hospitality service provider, using Power BI. The project delivers an interactive dashboard that provides visibility into guest feedback, service quality, and loyalty metrics across different demographics, visit purposes, service categories, and time periods.
 Using Power Query for data preparation and Power BI for visual analytics, the dashboard helps identify service gaps, monitor performance trends, and support data-driven decision-making.
