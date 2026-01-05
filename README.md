@@ -1,4 +1,7 @@
 # Guest-Satisfaction-Facility-Service-Performance-Analysis for Peaceace
+
+<img width="1024" height="945" alt="image" src="https://github.com/user-attachments/assets/4fe2c0ca-4155-4cdf-86b8-5b261c4e278e" />
+
 ## Table of contents
 - [Description](#description)
 - [Business Introduction](#business-introduction)
@@ -13,7 +16,6 @@ This project aims to analyse guest satisfaction and facility service performance
 Using Power Query for data preparation and Power BI for visual analytics, the dashboard helps identify service gaps, monitor performance trends, and support data-driven decision-making.
 Through this analysis, the project aims to enhance service quality, improve the guest experience, increase loyalty, and strengthen PEACEACE’s reputation for excellent hospitality services.
 
-<img width="1017" height="577" alt="image" src="https://github.com/user-attachments/assets/38d4649f-46d1-4b4c-afe6-199a1a0c3ac6" />
 
 
 ### Business Introduction
